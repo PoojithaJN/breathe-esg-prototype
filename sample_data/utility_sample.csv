@@ -1,0 +1,4 @@
+site_code,meter_no,service_from,service_to,opening_reading,closing_reading,usage_kwh,demand_kw,tariff_code,total_amount,reading_type
+BLR01,MTR1001,2025-12-01,2025-12-31,12000,14500,2500,120,HT2A,28500,ACTUAL
+BLR01,MTR1001,2025-12-15,2026-01-15,14500,16000,1400,140,HT2A,17800,ESTIMATED
+BLR02,,2025-12-01,2025-12-31,8000,9500,1500,90,LT3,14500,ACTUAL

@@ -1,0 +1,6 @@
+employee_id,trip_id,category,transaction_date,origin_airport,destination_airport,distance_km,nights,amount,currency
+EMP001,T1001,flight,2025-12-12,BLR,DEL,,0,12500,INR
+EMP002,T1002,hotel,2025-12-13,,,0,3,18000,INR
+EMP003,T1003,taxi,2025-12-14,,,25,0,950,INR
+EMP004,T1004,flight,2025-12-15,BLR,,900,0,9000,INR
+EMP005,T1005,meal,2025-12-15,,,0,0,750,INR
